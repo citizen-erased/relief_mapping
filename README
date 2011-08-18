@@ -1,0 +1,14 @@
+Demo showing relief mapping on arbitrary polygons.
+
+http://inf.ufrgs.br/~oliveira/RTM.html
+
+
+Required Libraries:
+SFML 1.6
+guichan
+glew
+
+
+Building
+run scons in the root directory.
+
