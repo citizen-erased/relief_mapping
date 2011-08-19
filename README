@@ -7,6 +7,8 @@ Required Libraries:
 SFML 1.6
 guichan
 glew
+configurable math library
+boost
 
 
 Building
